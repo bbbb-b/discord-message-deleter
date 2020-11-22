@@ -13,5 +13,5 @@ mess something up or just throw an error.
 Also note that it might take like 2 minutes for the bot to call `on_ready`
 because of something that has to do with getting all the server information. You can
 quicken it with some argument but then it won't be able to see all the
-channels or servers. Google it if you wanna know more, point is, be patient.
+channels or servers. Google it if you wanna know more, point is that you should be patient.
 
